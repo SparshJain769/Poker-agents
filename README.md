@@ -13,7 +13,7 @@ The aim of this project is to develop, test, and evaluate AI players for Texas H
 
 ## **Features**
 
-- **Custom AI Players**: Six AI players (`CustomPlayerSaksham_1` to `CustomPlayerSaksham_6`) designed with unique poker strategies, ranging from basic randomization to advanced logic incorporating win-rate estimation and bluffing.
+- **Custom AI Players**: 6 AI players (`CustomPlayerSaksham_1` to `CustomPlayerSaksham_6`) designed with unique poker strategies, ranging from basic randomization to advanced logic incorporating win-rate estimation and bluffing.
 - **Game Simulation**: A Python-based game engine for simulating poker matches.
 - **Baseline Agents**: Includes pre-built agents (`FishPlayer`, `RandomPlayer`, `HonestPlayer`) for testing and benchmarking.
 - **Machine Learning Integration**: Supports PyTorch-based decision-making models for AI players.
